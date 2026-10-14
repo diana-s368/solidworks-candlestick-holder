@@ -8,7 +8,7 @@ The design includes a rounded base, a central cylindrical section, and a curved 
 
 ## Preview
 
-![SolidWorks candlestick holder](candlestick-holder.png)
+![SolidWorks candlestick holder](candlestick-holder.jpg)
 
 ## Design Features
 
