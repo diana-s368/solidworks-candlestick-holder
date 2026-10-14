@@ -23,11 +23,9 @@ The design includes a rounded base, a central cylindrical section, and a curved 
 - **Project type:** 3D modeling
 
 ## Project Files
-
-- `images/` — rendered preview of the model
-- `models/` — original CAD files, if available
-- `docs/` — supporting documentation, if available
+- `image` — rendered preview of the model
+- `model` — original CAD files
+- `report` — supporting documentation
 
 ## Context
-
 This project is part of my collection of university CAD modeling exercises.
